@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204013051277",
+    "project_id": "proyectociclo4-da9b2",
+    "storage_bucket": "proyectociclo4-da9b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204013051277:android:822ee6d60a3bad38f971c4",
+        "android_client_info": {
+          "package_name": "com.mintic.university"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204013051277-v7hk3e2m55r8lu54ck4248kf7t7kqqan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEKjuSHLdN-zuUVInCM3j010NGuXXJ49A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204013051277-v7hk3e2m55r8lu54ck4248kf7t7kqqan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
